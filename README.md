@@ -10,7 +10,7 @@
 Professores Tops:
 
     - Rodrigo Goncalves
-    - mayke Brito
+    - Mayke Brito
     - Jakiline
 
  - [Rockeseat NLW ](https://rseat.in/nlw-edicao-esports)
