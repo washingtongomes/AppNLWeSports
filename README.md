@@ -1,5 +1,6 @@
 
 ## Autores
+![Logo](https://avatars.githubusercontent.com/u/68349833?v=4)
 
 - [Dev aprendiz - Washington](https://www.github.com/washingtongomes)
 
@@ -15,4 +16,5 @@ Professores Tops:
 
  - [Rockeseat NLW ](https://rseat.in/nlw-edicao-esports)
  - [Inscrição ]( https://rseat.in/inscricao-nlw-esports)
+
 
