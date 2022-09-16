@@ -1,8 +1,20 @@
+# NLW eSports 
+    > Trilha Explorer
+    > Projeto construido junto NLW - Rocketseat
 
-## Autores
-![Logo](https://avatars.githubusercontent.com/u/68349833?v=4)
+#  Tecnologias
+    > HTML 
+    > css
+    > Git & GitHub
 
+![preview](./.github/preview.png)
+
+[Clique aqui para acessar o site](https://washingtongomes.github.io/AppNLWeSports)
+
+## Contato :
 - [Dev aprendiz - Washington](https://www.github.com/washingtongomes)
+
+    wsgomes600@gmail.com
 
 
 
@@ -10,11 +22,8 @@
 
 Professores Tops:
 
-    - Rodrigo Goncalves
     - Mayke Brito
-    - Jakiline
-
- - [Rockeseat NLW ](https://rseat.in/nlw-edicao-esports)
- - [Inscrição ]( https://rseat.in/inscricao-nlw-esports)
+    - Jakeline
+    - Rodrigo Goncalves
 
 
